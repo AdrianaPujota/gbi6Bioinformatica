@@ -1,6 +1,6 @@
  #Clase 5
  Bioinformatica
- ###Datos Personales
+ ###Pujota Adriana
  
  ##Detalles del equipo
  
