@@ -1,7 +1,11 @@
- #Clase 5
+ Clase 5
  Bioinformatica
- ###Pujota Adriana
+ - Pujota Adriana
  
- ##Detalles del equipo
- 
- ##Detalles de los programas utilizados
+ Detalles del equipo
+ 1. HP LV1911
+
+ Detalles de los programas utilizados
+- Atom 1.60.0
+- Nano 6.2
+
